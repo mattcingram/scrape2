@@ -1,3 +1,1 @@
-install.packages(c("pacman", "RSelenium",
-       "rvest", 
-       "stringr")
+install.packages(c("pacman", "RSelenium","rvest", "stringr"))
