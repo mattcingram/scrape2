@@ -1,1 +1,13 @@
-
+install.packages(c("pacman", "RSelenium",
+       "rvest", 
+       "stringr",
+       "plyr", "dplyr",
+       "gender",
+       "genderizeR",
+       "data.table",
+       "devtools",
+       "emmeans", "car",
+       "ggplot2", "forcats", "vioplot", "caroline",
+       "reticulate",
+       "stargazer", "xtable", "interplot",
+       "tictoc))
